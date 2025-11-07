@@ -1,0 +1,9 @@
+
+numpy
+opencv-contrib-python
+open3d
+scipy
+torch
+torchvision
+ultralytics
+pandas
